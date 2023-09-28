@@ -11,6 +11,7 @@ Hi there, I'm **Aziz Azharudin**, a **Web Developer** and a **Software Engineeri
 
   <p>
       <img src="https://github-readme-stats.vercel.app/api?username=aaazharudin&show_icons=true&include_all_commits=true&count_private=true" alt="aaazharudin" height="200" />
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaazharudin&layout=compact&langs_count=10" alt="aaazharudin" height="200" />
   </p>
   
