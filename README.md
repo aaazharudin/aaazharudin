@@ -6,7 +6,7 @@ Hi there, I'm **Aziz Azharudin**, a **Web Developer** and a **Software Engineeri
   - 🔭 I’m currently working on my personal projects
   - ⚡ Excited to create open-source projects
   - 🌱 I’m currently learning React
-  - 💕 I'm currently fall in love with Laravel
+  - 💕 I'm currently fall in love with Javascript & Laravel
   - 📫 You can reach me at <a href="mailto:azizazharudin0203@gmail.com">azizazharudin0203@gmail.com</a>
 
   <p>
