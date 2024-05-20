@@ -9,10 +9,7 @@ Hi there, I'm **Aziz Azharudin**, a **Web Developer** and a **Software Engineeri
   - 💕 I'm currently fall in love with Javascript & Laravel
   - 📫 You can reach me at <a href="mailto:azizazharudin0203@gmail.com">azizazharudin0203@gmail.com</a>
 
-  <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaazharudin&layout=donut-vertical" alt="aaazharudin" height="200" />
-      <img src="https://github-readme-stats.vercel.app/api?username=aaazharudin&show_icons=true&theme=transparent"  alt="aaazharudin" height="200" />
-  </p>
+  
   
 
 ### Let's connect!
