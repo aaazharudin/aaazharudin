@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Aziz Azharudin!
     
-Hi there, I'm **Aziz Azharudin**, a **Web Developer** and a **Software Engineering Student** 🚀 from Indonesia.
+Hi there, I'm **Aziz Azharudin** 🚀 from Indonesia.
 
 ### Talking about Personal Stuffs:
   - 🔭 I’m currently working on my personal projects
